@@ -1,0 +1,69 @@
+#head{color: mediumturquoise;
+    font-family: Times New Roman;                  
+}
+body{
+ background-color: #f6f5f5;
+ margin: 0px;
+ padding: 1px;
+}
+#container{
+ background-color: rgba(173, 34, 19, 0.062);
+}
+#Home{
+ font-size: 16px;
+ font-weight: normal;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ letter-spacing: 1px;
+ line-height: normal;
+ color: #000000;
+}
+.chinks{
+ height: 300px;
+ position:relative;
+ bottom: -10px;
+ left: 13%;
+ transform: translateX(-70%);
+}
+#about{
+ margin-top: 3cm;
+ font-size: 16px;
+ font-family: calibri;
+ letter-spacing: 1px;
+ line-height:normal;
+ max-width: 10cm;
+}
+#services{
+ margin-top: 2cm;
+ font-size: 16px;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ letter-spacing: 1px;
+ line-height: normal;
+ max-width: 10;
+}
+#contact{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: 16;
+ letter-spacing: 1px;
+ line-height: normal;
+ margin-top: 2cm;
+ 
+}
+#book{
+ font-size: 20px;
+ font-weight: bold;
+ font-family: Times New Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ margin-top: 2cm;
+ line-height: 4px;
+ background-color:whitesmoke;
+
+}
+#para{
+ font-size: 16px;
+ font-weight: bold;
+ font-family: Times New Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+#nav{
+ color: rgb(143, 22, 143);
+}
